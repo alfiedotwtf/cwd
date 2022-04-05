@@ -1,6 +1,6 @@
 [package]
 name        = "cwd"
-version     = "1.1.2"
+version     = "1.1.3"
 description = "Current Working Directory, a convenience crate"
 authors     = ["Alfie John <alfie@alfie.wtf>"]
 
