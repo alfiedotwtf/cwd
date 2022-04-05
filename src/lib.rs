@@ -1,7 +1,7 @@
 //! cwd - Current Working Directory, a convenience crate
 //!
-//! Instead of copy-pasting this bit of code each time I need the fully qualified current working
-//! directory, I decided to turn it into a convenience crate...
+//! Instead of copy-pasting this bit of code yet again when I need the fully qualified current
+//! working directory, I decided to turn it into a convenience crate in the name of code reuse.
 //!
 //! ## Example
 //!
