@@ -1,6 +1,6 @@
 [package]
 name        = "cwd"
-version     = "1.1.5"
+version     = "1.1.6"
 description = "Current Working Directory, a convenience crate"
 authors     = ["Alfie John <alfie@alfie.wtf>"]
 
@@ -8,5 +8,5 @@ documentation = "https://docs.rs/cwd/"
 homepage      = "https://crates.io/crates/cwd"
 repository    = "https://github.com/alfiedotwtf/cwd"
 readme        = "README.md"
-license       = "GPL-2.0-only"
+license       = "0BSD"
 edition       = "2018"
